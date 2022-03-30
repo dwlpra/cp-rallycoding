@@ -5,4 +5,6 @@ Joint Two Strings [Question](https://www.rallycoding.com/problems/161) | [Answer
 
 
 #### Easy
-Joint Two Strings [Question](https://www.rallycoding.com/problems/158) | [Answer](https://github.com/dwlpra/cp-rallycoding/blob/main/easy/integers_in_range_of_x_y.js)
+Integers in Range of X,Y [Question](https://www.rallycoding.com/problems/158) | [Answer](https://github.com/dwlpra/cp-rallycoding/blob/main/easy/integers_in_range_of_x_y.js)
+
+Find Integer in Array [Question](https://www.rallycoding.com/problems/159) | [Answer](find_integer_in_array.js)
